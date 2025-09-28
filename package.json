@@ -1,0 +1,32 @@
+{
+  "name": "organizador-futbol-barrio",
+  "version": "1.0.0",
+  "description": "Aplicación para organizar partidos de fútbol en el barrio con IA",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "latest"
+  },
+  "devDependencies": {
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest"
+  },
+  "keywords": [
+    "futbol",
+    "deportes",
+    "organizacion",
+    "equipos",
+    "ia"
+  ],
+  "author": "Tu Nombre",
+  "license": "MIT"
+}
